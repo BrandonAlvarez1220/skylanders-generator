@@ -1,0 +1,17 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+
+# Machine-specific editor hooks contain local absolute paths.
+.cursor/hooks.json
+.gemini/settings.json
+
+# Local Impeccable consent/configuration; keep shareable Impeccable artifacts trackable.
+.impeccable/config.local.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
